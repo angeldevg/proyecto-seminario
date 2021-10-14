@@ -1,0 +1,9 @@
+.card-header{
+    background-image: radial-gradient(circle at 12.5% 12.5%, #516da6 0, #0a4a8b 50%, #002b70 100%);
+    color: #ffd700;
+    text-shadow: 1px 1px #ffff00;
+}
+
+.username{
+    color: ivory;
+}

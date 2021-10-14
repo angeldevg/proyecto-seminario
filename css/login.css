@@ -1,0 +1,23 @@
+.title{
+    background-image: radial-gradient(circle at 12.5% 12.5%, #516da6 0, #0a4a8b 50%, #002b70 100%);
+    color: #ffd700;
+    text-shadow: 1px 1px #ffff00;    
+    box-shadow: 3px -11px #0a4a8b; 
+
+}
+
+.footer{
+    background-image: radial-gradient(circle at 12.5% 12.5%, #516da6 0, #0a4a8b 50%, #002b70 100%);
+    color: #ffd700;
+    text-shadow: 1px 1px #ffff00; 
+}
+
+.img1{
+
+    filter: brightness();
+    mix-blend-mode: multiply;
+}
+
+body{
+    background: honeydew;
+}
