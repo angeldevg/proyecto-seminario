@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>Panel</title>
+    <link rel="shortcut icon" href="https://toppng.com/uploads/preview/dashboard-svg-icon-free-dashboard-icon-11553444664o1utwdkesz.png"> 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -72,10 +73,7 @@
                                                   include("menuadmin.html");
                                                 }else{
                                                   include("menuuser.html");
-                                                }
-
-                                               
-                                                
+                                                }           
                                             
                                     ?>
 

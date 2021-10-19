@@ -2,6 +2,7 @@
 <html lang="es">
   <head>
     <title>Usuarios</title>
+    <link rel="shortcut icon" href="https://thumbs.dreamstime.com/b/a%C3%B1ada-el-verde-digital-del-nuevo-de-usuario-icono-la-cuenta-118747551.jpg"> 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
