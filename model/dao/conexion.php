@@ -1,10 +1,10 @@
 
 <?php
 
-$dbhost = "localhost";
-$dbuser = "usr_developer";
-$dbpass = "1234";
-$dbname = "db_tienda";
+$dbhost = "us-cdbr-east-04.cleardb.com";
+$dbuser = "bdf1e082331729";
+$dbpass = "02a19422";
+$dbname = "heroku_71c27193fdf82fa";
 
 $conn = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 
